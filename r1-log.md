@@ -9,4 +9,4 @@ Started to think what can i do for next 100 days
 
 ### R1D1
 
-...
+Started to code to get FreeCodeCamp's Front End Libraries certification ✌.

@@ -8,3 +8,9 @@
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 0: May 8, 2019 
+
+**Today's Progress**: Working on freeCodeCamp's Front End Libaries' curriculum
+
+**Thoughts:** I think it can helps me to get over my prejudice over front end libraries such as jQuery and Bootstrap.
+
