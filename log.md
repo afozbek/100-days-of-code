@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 8, 2019 
+### Day 0: May 8, 2019
 
 **Today's Progress**: Thinking what can i do for the next 100 days
 
@@ -8,9 +8,14 @@
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: May 8, 2019 
+### Day 1: May 9, 2019
 
 **Today's Progress**: Working on freeCodeCamp's Front End Libaries' curriculum
 
 **Thoughts:** I think it can helps me to get over my prejudice over front end libraries such as jQuery and Bootstrap.
 
+### Day 2: May 10, 2019
+
+**Today's Progress**: Working on freeCodeCamp's Front End Libaries' curriculum
+
+**Thoughts:** I think it can helps me to get over my prejudice over front end libraries such as jQuery and Bootstrap.
