@@ -15,3 +15,7 @@ Started to code to get FreeCodeCamp's Front End Libraries certification ✌.
 ### R1D2
 
 Working on React.js on [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
+
+### R1D3
+
+Applying Redux on my Burger Hunger project

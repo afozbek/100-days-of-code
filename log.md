@@ -19,3 +19,10 @@
 **Today's Progress**: Working on freeCodeCamp's Front End Libaries' curriculum
 
 **Thoughts:** I think it can helps me to get over my prejudice over front end libraries such as jQuery and Bootstrap.
+
+### Day 3: May 11, 2019
+
+**Today's Progress**: Applying Redux on my `Burger Hunger` Project
+
+**Thoughts:** Redux would makes my code clean. State management would be more clear with it.
+**Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
