@@ -26,3 +26,11 @@
 
 **Thoughts:** Redux would makes my code clean. State management would be more clear with it.
 **Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
+
+### Day 4: May 12, 2019
+
+**Today's Progress**: Applying Authentication on my `Burger Hunger` Project
+
+**Thoughts:** Most of the ongoing projects will have authentication problem. I want to learn this chapter very carefully so that in the future if I have problem like that I would handle more easily.
+
+**Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)

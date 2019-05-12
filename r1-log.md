@@ -19,3 +19,7 @@ Working on React.js on [freeCodeCamp](https://learn.freecodecamp.org/front-end-l
 ### R1D3
 
 Applying Redux on my Burger Hunger project
+
+### R1D4
+
+Applying Authentication my Burger Hunger project
