@@ -34,3 +34,11 @@
 **Thoughts:** Most of the ongoing projects will have authentication problem. I want to learn this chapter very carefully so that in the future if I have problem like that I would handle more easily.
 
 **Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
+
+### Day 5: May 12, 2019
+
+**Today's Progress**: Finishing adding Authentication
+
+**Thoughts:** Using local storage to get token maybe not best but React will cover them all.
+
+**Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)

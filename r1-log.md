@@ -23,3 +23,7 @@ Applying Redux on my Burger Hunger project
 ### R1D4
 
 Applying Authentication my Burger Hunger project
+
+### R1D5
+
+Finishing applying Authentication
