@@ -27,3 +27,7 @@ Applying Authentication my Burger Hunger project
 ### R1D5
 
 Finishing applying Authentication
+
+### R1D6
+
+Working on MaterialUI for React Components

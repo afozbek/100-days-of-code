@@ -42,3 +42,9 @@
 **Thoughts:** Using local storage to get token maybe not best but React will cover them all.
 
 **Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
+
+### Day 6: May 12, 2019
+
+**Today's Progress**: Working on Material UI for React components
+
+**Thoughts:** Material UI is great React UI Component Framework.
