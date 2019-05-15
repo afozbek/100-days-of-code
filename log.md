@@ -48,3 +48,9 @@
 **Today's Progress**: Working on Material UI for React components
 
 **Thoughts:** Material UI is great React UI Component Framework.
+
+### Day 7: May 12, 2019
+
+**Today's Progress**: Creating Burger Hunger TODO project
+
+**Thoughts:** I will constantly update my future todos

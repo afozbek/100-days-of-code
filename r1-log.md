@@ -31,3 +31,7 @@ Finishing applying Authentication
 ### R1D6
 
 Working on MaterialUI for React Components
+
+### R1D7
+
+Creating Burger Hunger TODO project in github
