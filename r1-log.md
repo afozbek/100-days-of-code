@@ -35,3 +35,7 @@ Working on MaterialUI for React Components
 ### R1D7
 
 Creating Burger Hunger TODO project in github
+
+### R1D8
+
+Starting Random Quote Machine project on freeCodeCamp

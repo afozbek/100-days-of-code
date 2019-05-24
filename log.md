@@ -54,3 +54,9 @@
 **Today's Progress**: Creating Burger Hunger TODO project
 
 **Thoughts:** I will constantly update my future todos
+
+### Day 8: May 12, 2019
+
+**Today's Progress**: Starting Random Quote Machine project on freeCodeCamp
+
+**Thoughts:** A lot of react in single project. Really good project, I am giving all my attention to this project for coming few days
