@@ -39,3 +39,7 @@ Creating Burger Hunger TODO project in github
 ### R1D8
 
 Starting Random Quote Machine project on freeCodeCamp
+
+### R1D9
+
+Finishing Random Quote Machine project on freeCodeCamp

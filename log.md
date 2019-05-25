@@ -62,3 +62,14 @@
 **Thoughts:** A lot of react in single project. Really good project, I am giving all my attention to this project for coming few days
 
 **Link to work:** [Random Quote Machine](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
+
+### Day 9: May 12, 2019
+
+**Today's Progress**: Finishing Random Quote Machine
+
+**Thoughts:** It is hard to implement transition animations.😢
+
+**Link to work:**
+
+- [Github](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
+- [Online](https://random-quote-machine--afozbek.repl.co)
