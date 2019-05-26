@@ -35,7 +35,7 @@
 
 **Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
 
-### Day 5: May 12, 2019
+### Day 5: May 13, 2019
 
 **Today's Progress**: Finishing adding Authentication
 
@@ -43,19 +43,19 @@
 
 **Link to work:** [Burger Hunger](https://github.com/afozbek/Burger-Hunger)
 
-### Day 6: May 12, 2019
+### Day 6: May 13, 2019
 
 **Today's Progress**: Working on Material UI for React components
 
 **Thoughts:** Material UI is great React UI Component Framework.
 
-### Day 7: May 12, 2019
+### Day 7: May 14, 2019
 
 **Today's Progress**: Creating Burger Hunger TODO project
 
 **Thoughts:** I will constantly update my future todos
 
-### Day 8: May 12, 2019
+### Day 8: May 24, 2019
 
 **Today's Progress**: Starting Random Quote Machine project on freeCodeCamp
 
@@ -63,7 +63,7 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
 
-### Day 9: May 12, 2019
+### Day 9: May 25, 2019
 
 **Today's Progress**: Finishing Random Quote Machine
 
@@ -73,3 +73,14 @@
 
 - [Github](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
 - [Online](https://random-quote-machine--afozbek.repl.co)
+
+### Day 10: May 26, 2019
+
+**Today's Progress**: Testing & Hosting my Burger Project
+
+**Thoughts:** I see how easily can I host my projects.👌
+
+**Link to work:**
+
+- [Github Pages](https://afozbek.github.io/Burger-Hunger/)
+- [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
