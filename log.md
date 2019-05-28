@@ -84,3 +84,9 @@
 
 - [Github Pages](https://afozbek.github.io/Burger-Hunger/)
 - [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
+
+### Day 11: May 28, 2019
+
+**Today's Progress**: Working on webpack & Next.js
+
+**Thoughts:** So much packets required for bundle 😳😒

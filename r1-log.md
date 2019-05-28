@@ -47,3 +47,7 @@ Finishing Random Quote Machine project on freeCodeCamp
 ### R1D10
 
 Testing and Hosting My Burger project
+
+### R1D11
+
+Working on webpack & Next.js
