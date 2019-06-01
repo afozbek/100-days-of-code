@@ -90,3 +90,14 @@
 **Today's Progress**: Working on webpack & Next.js
 
 **Thoughts:** So much packets required for bundle 😳😒
+
+### Day 12: Jun 01, 2019
+
+**Today's Progress**: Applying Redux Saga to my project
+
+**Thoughts:** So much packets required for bundle 😳😒
+
+**Link to work:**
+
+- [Github Pages](https://afozbek.github.io/Burger-Hunger/)
+- [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
