@@ -95,9 +95,15 @@
 
 **Today's Progress**: Applying Redux Saga to my project
 
-**Thoughts:** So much packets required for bundle 😳😒
+**Thoughts:** A little confused about Redux-Thunk & Redux-Saga 😅
 
 **Link to work:**
 
 - [Github Pages](https://afozbek.github.io/Burger-Hunger/)
 - [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
+
+### Day 13: Jun 02, 2019
+
+**Today's Progress**: Working on React Hooks
+
+**Thoughts:** There should be some practice before moving function components into the hook components

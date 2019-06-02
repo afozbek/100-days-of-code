@@ -55,3 +55,7 @@ Working on webpack & Next.js
 ### R1D12
 
 Applying Redux-Saga to my project
+
+### R1D13
+
+Investigating React Hooks
