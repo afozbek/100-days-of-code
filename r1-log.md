@@ -59,3 +59,7 @@ Applying Redux-Saga to my project
 ### R1D13
 
 Investigating React Hooks
+
+### R1D14
+
+Working on Drum Machine project

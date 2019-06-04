@@ -107,3 +107,11 @@
 **Today's Progress**: Working on React Hooks
 
 **Thoughts:** There should be some practice before moving function components into the hook components
+
+### Day 14: Jun 04, 2019
+
+**Today's Progress**: Finishing Drum Machine project
+
+**Link to work:**
+
+- [CodePen](https://codepen.io/afozbek/pen/PvgPOY)
