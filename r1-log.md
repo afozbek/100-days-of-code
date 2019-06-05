@@ -63,3 +63,7 @@ Investigating React Hooks
 ### R1D14
 
 Working on Drum Machine project
+
+### R1D15
+
+Creating React Calculator project

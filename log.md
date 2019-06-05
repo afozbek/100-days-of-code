@@ -115,3 +115,9 @@
 **Link to work:**
 
 - [CodePen](https://codepen.io/afozbek/pen/PvgPOY)
+
+### Day 15: Jun 05, 2019
+
+**Today's Progress**: Creating react calculator app
+
+**Thougts** Much more complex project than I think 😅
