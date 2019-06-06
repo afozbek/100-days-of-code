@@ -67,3 +67,7 @@ Working on Drum Machine project
 ### R1D15
 
 Creating React Calculator project
+
+### R1D16
+
+Finishing React Calculator project 😅

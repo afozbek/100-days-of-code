@@ -121,3 +121,14 @@
 **Today's Progress**: Creating react calculator app
 
 **Thougts** Much more complex project than I think 😅
+
+### Day 16: Jun 06, 2019
+
+**Today's Progress**: Finishing react calculator app
+
+**Thougts** Much more complex project than I think 😅
+
+**Link to work:**
+
+- [CodePen](https://codepen.io/afozbek/pen/KLLEWK)
+- [Github Pages](https://afozbek.github.io/React-Calculator-Project/)
