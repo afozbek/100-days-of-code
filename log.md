@@ -132,3 +132,21 @@
 
 - [CodePen](https://codepen.io/afozbek/pen/KLLEWK)
 - [Github Pages](https://afozbek.github.io/React-Calculator-Project/)
+
+### Day 17: Jun 07, 2019
+
+**Today's Progress**: Finishing Recipes App and starting Pomodoro App
+
+**Thougts** Applying redux will be good practice for me, also I use hooks😛
+
+### Day 18: Jun 08, 2019
+
+**Today's Progress**: Some styling stuff and working on Pomodoro project
+
+**Thougts** With only small css we can build powerful contents
+
+**Link to work:**
+
+- Icon Hover Effects -> [CodePen](https://codepen.io/afozbek/pen/GaVEvx)
+- Hover Me Buttons -> [CodePen](https://codepen.io/afozbek/pen/LowLoO)
+- Loading... -> [CodePen](https://codepen.io/afozbek/pen/KLOqVJ)

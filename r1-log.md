@@ -71,3 +71,11 @@ Creating React Calculator project
 ### R1D16
 
 Finishing React Calculator project 😅
+
+### R1D17
+
+Finishing Recipes App and starting Pomodoro App
+
+### R1D18
+
+Some styling stuff and working on Pomodoro project
