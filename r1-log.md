@@ -79,3 +79,7 @@ Finishing Recipes App and starting Pomodoro App
 ### R1D18
 
 Some styling stuff and working on Pomodoro project
+
+### R1D19
+
+Finishing Pomodoro project and deploying it on Netlify

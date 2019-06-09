@@ -150,3 +150,13 @@
 - Icon Hover Effects -> [CodePen](https://codepen.io/afozbek/pen/GaVEvx)
 - Hover Me Buttons -> [CodePen](https://codepen.io/afozbek/pen/LowLoO)
 - Loading... -> [CodePen](https://codepen.io/afozbek/pen/KLOqVJ)
+
+### Day 19: Jun 09, 2019
+
+**Today's Progress**: Finishin Pomodoro project and deployin it on Netlify
+
+**Thougts** Really take my time while building it but it was great exprience 😊
+
+**Link to work:**
+
+- Check out Demo on -> [Netlify](https://afozbek-pomodoro-app.netlify.com/?_ga=2.268321038.1224819846.1560082344-1034779676.1559814958)
