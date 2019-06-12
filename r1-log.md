@@ -83,3 +83,7 @@ Some styling stuff and working on Pomodoro project
 ### R1D19
 
 Finishing Pomodoro project and deploying it on Netlify
+
+### R1D20
+
+Continuing freecodeCamp curriculum - Data Visualization & Apis

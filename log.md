@@ -153,10 +153,20 @@
 
 ### Day 19: Jun 09, 2019
 
-**Today's Progress**: Finishin Pomodoro project and deployin it on Netlify
+**Today's Progress**: Finishing Pomodoro project and deployin it on Netlify
 
 **Thougts** Really take my time while building it but it was great exprience 😊
 
 **Link to work:**
 
 - Check out Demo on -> [Netlify](https://afozbek-pomodoro-app.netlify.com/?_ga=2.268321038.1224819846.1560082344-1034779676.1559814958)
+
+### Day 20: Jun 11, 2019
+
+**Today's Progress**: Continuing freecodeCamp curriculum - Data Visualization & Apis
+
+**Thougts** I am not a big fan about SVGs so maybe I do the project later in this section.
+
+**Link to work:**
+
+- Check out Demo on -> [Glitch](https://freecodecamp-node-challenges.glitch.me/)
