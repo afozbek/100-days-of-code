@@ -91,3 +91,7 @@ Continuing freecodeCamp curriculum - Data Visualization & Apis
 ### R1D21
 
 Finishing mongodb section and currently building microservice projects & also work on a little React today 😬
+
+### R1D22
+
+I finished some projects on microservice section
