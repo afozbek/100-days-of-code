@@ -87,3 +87,7 @@ Finishing Pomodoro project and deploying it on Netlify
 ### R1D20
 
 Continuing freecodeCamp curriculum - Data Visualization & Apis
+
+### R1D21
+
+Finishing mongodb section and currently building microservice projects & also work on a little React today 😬

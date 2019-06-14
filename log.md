@@ -170,3 +170,13 @@
 **Link to work:**
 
 - Check out Demo on -> [Glitch](https://freecodecamp-node-challenges.glitch.me/)
+
+### Day 21: Jun 13, 2019
+
+**Today's Progress**: Finishing mongodb section and currently building microservice projects & also teach a little React to my friend today 😬
+
+**Thougts** It really improves me to teach someone.
+
+**Link to work:**
+
+- Check out Demo on -> [CodeSandBox](https://codesandbox.io/s/react-training-lessons-u4hy9)
