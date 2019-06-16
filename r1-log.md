@@ -99,3 +99,7 @@ I finished some projects on microservice section
 ### R1D23
 
 Finished all of the projects on microservice section
+
+### R1D24
+
+Finished _quality assurance challenges & helmet.js_ challenges on **freeCodeCamp**

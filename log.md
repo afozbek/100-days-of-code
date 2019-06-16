@@ -200,3 +200,13 @@
 **Link to work:**
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+
+### Day 24: Jun 16, 2019
+
+**Today's Progress**: I completed Helmet.js & Testing with Chai challenges.
+
+**Thougts** Tests are a little annoying I think, because even if the I write it right, results were always errors. but I found that it is because of the package's version
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
