@@ -210,3 +210,13 @@
 **Link to work:**
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+
+### Day 25: Jun 17, 2019
+
+**Today's Progress**: Working on Authentication & Socket.io
+
+**Thougts** Authentication really part of the web applications. Very important subject and on the other hand Socket.io is really powerful when developing chat applications.
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
