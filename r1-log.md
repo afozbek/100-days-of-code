@@ -107,3 +107,7 @@ Finished _quality assurance challenges & helmet.js_ challenges on **freeCodeCamp
 ### R1D25
 
 Today I finished _authentication & socket.io_ challenges on **freeCodeCamp**
+
+### R1D26
+
+Today I finished _Issue Tracker_ project

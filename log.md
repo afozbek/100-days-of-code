@@ -220,3 +220,13 @@
 **Link to work:**
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+
+### Day 26: Jun 19, 2019
+
+**Today's Progress**: Finished Issue Tracker project
+
+**Thougts** I think I need some time before I like testing😂
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
