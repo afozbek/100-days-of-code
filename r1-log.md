@@ -111,3 +111,7 @@ Today I finished _authentication & socket.io_ challenges on **freeCodeCamp**
 ### R1D26
 
 Today I finished _Issue Tracker_ project
+
+### R1D27
+
+Today I finished _Personal Library_ project

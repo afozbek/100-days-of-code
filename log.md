@@ -230,3 +230,13 @@
 **Link to work:**
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+
+### Day 27: Jun 20, 2019
+
+**Today's Progress**: Finished Personal Library project
+
+**Thougts** Learning test library is good for future projects. I appreciate to **freeCodeCamp** for helping to _community_.
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
