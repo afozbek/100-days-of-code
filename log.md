@@ -240,3 +240,9 @@
 **Link to work:**
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+
+### Day 28: Jun 21, 2019
+
+**Today's Progress**: Started _Metric/Imp Converter_ project
+
+**Thougts** Not so much work today. Just started _Metric/Imp Converter_ project
