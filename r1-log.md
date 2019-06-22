@@ -119,3 +119,7 @@ Today I finished _Personal Library_ project
 ### R1D28
 
 Today I work on my _Metric/Imp Converter_ project.
+
+### R1D29
+
+Today I finished _Metric/Imp Converter_ project.

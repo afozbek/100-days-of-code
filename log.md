@@ -246,3 +246,14 @@
 **Today's Progress**: Started _Metric/Imp Converter_ project
 
 **Thougts** Not so much work today. Just started _Metric/Imp Converter_ project
+
+### Day 29: Jun 22, 2019
+
+**Today's Progress**: Finished _Metric/Imp Converter_ project
+
+**Thougts** A little boring project I think
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+- View Live on -> [demo](https://afozbek-metric-imperial-converter.glitch.me/)
