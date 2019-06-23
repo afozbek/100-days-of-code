@@ -123,3 +123,7 @@ Today I work on my _Metric/Imp Converter_ project.
 ### R1D29
 
 Today I finished _Metric/Imp Converter_ project.
+
+### R1D30
+
+Today I worked on _Message Board_ project which is the last project on *freeCodeCamp*.

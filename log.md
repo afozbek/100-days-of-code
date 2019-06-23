@@ -257,3 +257,14 @@
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 - View Live on -> [demo](https://afozbek-metric-imperial-converter.glitch.me/)
+
+### Day 30: Jun 23, 2019
+
+**Today's Progress**: Today I worked on *Message Board* project
+
+**Thougts** At first I kind of confused about how to create model schema and then I look at other developers code and I see that I am thinking too much details.😂
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+- Check out my profile on -> [Github](https://github.com/afozbek)
