@@ -268,3 +268,14 @@
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 - Check out my profile on -> [Github](https://github.com/afozbek)
+
+### Day 31: Jun 24, 2019
+
+**Today's Progress**: Today I worked on *Message Board* project
+
+**Thougts** API harder than I think. Mongoose docs not much clear. But stackoverflow helped me a lot.
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+- Check out my profile on -> [Github](https://github.com/afozbek)

@@ -126,4 +126,8 @@ Today I finished _Metric/Imp Converter_ project.
 
 ### R1D30
 
-Today I worked on _Message Board_ project which is the last project on *freeCodeCamp*.
+Today I worked on _Message Board_ project which is the last project on _freeCodeCamp_.
+
+### R1D31
+
+Today I finished the API on _Message Board_ project which is the last project on _freeCodeCamp_.
