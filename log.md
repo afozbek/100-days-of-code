@@ -260,7 +260,7 @@
 
 ### Day 30: Jun 23, 2019
 
-**Today's Progress**: Today I worked on *Message Board* project
+**Today's Progress**: Today I worked on _Message Board_ project
 
 **Thougts** At first I kind of confused about how to create model schema and then I look at other developers code and I see that I am thinking too much details.😂
 
@@ -271,9 +271,20 @@
 
 ### Day 31: Jun 24, 2019
 
-**Today's Progress**: Today I worked on *Message Board* project
+**Today's Progress**: Today I worked on _Message Board_ project
 
 **Thougts** API harder than I think. Mongoose docs not much clear. But stackoverflow helped me a lot.
+
+**Link to work:**
+
+- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+- Check out my profile on -> [Github](https://github.com/afozbek)
+
+### Day 32: Jun 25, 2019
+
+**Today's Progress**: Today I finally finished on _Message Board_ project
+
+**Thougts** I think, from now on I will study DS & Algos.
 
 **Link to work:**
 
