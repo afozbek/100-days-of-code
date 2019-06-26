@@ -135,3 +135,7 @@ Today I finished the API on _Message Board_ project which is the last project on
 ### R1D32
 
 Today I finally finished _Message Board_ project.
+
+### R1D33
+
+Today I started _Intro to Computer Science - Harvard's CS50_ course.

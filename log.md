@@ -290,3 +290,9 @@
 
 - Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 - Check out my profile on -> [Github](https://github.com/afozbek)
+
+### Day 33: Jun 26, 2019
+
+**Today's Progress**: Today I started _Intro to Computer Science - Harvard's CS50_ course.
+
+**Thougts** I will try to watch one section every day until it finishes
