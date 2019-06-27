@@ -296,3 +296,9 @@
 **Today's Progress**: Today I started _Intro to Computer Science - Harvard's CS50_ course.
 
 **Thougts** I will try to watch one section every day until it finishes
+
+### Day 34: Jun 27, 2019
+
+**Today's Progress**: Today I continued _Intro to Computer Science - Harvard's CS50_ course.
+
+**Thougts** I will try to watch one section every day until it finishes

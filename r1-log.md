@@ -139,3 +139,7 @@ Today I finally finished _Message Board_ project.
 ### R1D33
 
 Today I started _Intro to Computer Science - Harvard's CS50_ course.
+
+### R1D34
+
+Today I continued _Intro to Computer Science - Harvard's CS50_ course.
