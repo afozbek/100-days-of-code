@@ -143,3 +143,11 @@ Today I started _Intro to Computer Science - Harvard's CS50_ course.
 ### R1D34
 
 Today I continued _Intro to Computer Science - Harvard's CS50_ course.
+
+### R1D35
+
+Today I continued _Intro to Computer Science - Harvard's CS50_ course and applying algorithms myself
+
+### R1D36
+
+Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving algorithms myself
