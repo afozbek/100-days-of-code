@@ -314,3 +314,9 @@
 **Today's Progress**: Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving some algorithms
 
 **Thougts** I am currently improving my algorithm skills
+
+### Day 37: Jun 30, 2019
+
+**Today's Progress**: Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving some algorithms
+
+**Thougts** I am very happy to understan why linked lists are different from arrays and why we use them

@@ -151,3 +151,9 @@ Today I continued _Intro to Computer Science - Harvard's CS50_ course and applyi
 ### R1D36
 
 Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving algorithms myself
+
+### R1D37
+
+Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving algorithms myself
+
+> Linked-Lists(Linked Memory) and Arrays(Sequence of Memory)
