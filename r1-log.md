@@ -157,3 +157,7 @@ Today I continued _Intro to Computer Science - Harvard's CS50_ course and solvin
 Today I continued _Intro to Computer Science - Harvard's CS50_ course and solving algorithms myself
 
 > Linked-Lists(Linked Memory) and Arrays(Sequence of Memory)
+
+### R1D38
+
+Today I started to learn Java.
