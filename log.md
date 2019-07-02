@@ -326,3 +326,9 @@
 **Today's Progress**: Today I started a job at OBSS. I am currently learning Java SE.
 
 **Thougts** First day was good. I am currently installing Java environments
+
+### Day 39: July 2, 2019
+
+**Today's Progress**: Today I started to learn Object Oriented concepts with Java.
+
+**Thougts** I learn some basic concepts of Object Oriented. I think I will study much more in the coming days.

@@ -161,3 +161,7 @@ Today I continued _Intro to Computer Science - Harvard's CS50_ course and solvin
 ### R1D38
 
 Today I started to learn Java.
+
+### R1D39
+
+Today I started to Object Oriented concept with Java.
