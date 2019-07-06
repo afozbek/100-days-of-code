@@ -165,3 +165,7 @@ Today I started to learn Java.
 ### R1D39
 
 Today I started to Object Oriented concept with Java.
+
+### R1D40
+
+Today I finished Java Tutorial at [w3schools](https://www.w3schools.com/)
