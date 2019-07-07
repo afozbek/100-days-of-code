@@ -333,8 +333,14 @@
 
 **Thougts** I learn some basic concepts of Object Oriented. I think I will study much more in the coming days.
 
-### Day 40: July 2, 2019
+### Day 40: July 6, 2019
 
 **Today's Progress**: Today I finished Java Tutorial at [w3schools](https://www.w3schools.com/)
 
 **Thougts** I learned some important OOP concepts like _Inheritance_, _Abstraction_, _Polymorphsym_ and _Encapsulation_
+
+### Day 41: July 7, 2019
+
+**Today's Progress**: Today I looked at Exception Handling in Java. I also looked at Pass-by-value and Pass-by-reference approach in java and I learned that java uses pass-by-value approach
+
+**Thougts** Exceptions a little bit confusing when first start learning

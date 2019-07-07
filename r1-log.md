@@ -169,3 +169,7 @@ Today I started to Object Oriented concept with Java.
 ### R1D40
 
 Today I finished Java Tutorial at [w3schools](https://www.w3schools.com/)
+
+### R1D41
+
+Today I looked at Exception Handling in Java. I also looked at Pass-by-value and Pass-by-reference approach in java and I learned that java uses pass-by-value approach
