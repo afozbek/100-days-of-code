@@ -71,8 +71,8 @@
 
 **Link to work:**
 
-- [Github](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
-- [Online](https://random-quote-machine--afozbek.repl.co)
+-   [Github](https://github.com/afozbek/React-Demo-Projects/tree/master/Random%20Quote%20Machine)
+-   [Online](https://random-quote-machine--afozbek.repl.co)
 
 ### Day 10: May 26, 2019
 
@@ -82,8 +82,8 @@
 
 **Link to work:**
 
-- [Github Pages](https://afozbek.github.io/Burger-Hunger/)
-- [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
+-   [Github Pages](https://afozbek.github.io/Burger-Hunger/)
+-   [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
 
 ### Day 11: May 28, 2019
 
@@ -99,8 +99,8 @@
 
 **Link to work:**
 
-- [Github Pages](https://afozbek.github.io/Burger-Hunger/)
-- [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
+-   [Github Pages](https://afozbek.github.io/Burger-Hunger/)
+-   [Firebase Hosting](https://react-my-burger-62bf3.firebaseapp.com/)
 
 ### Day 13: Jun 02, 2019
 
@@ -114,7 +114,7 @@
 
 **Link to work:**
 
-- [CodePen](https://codepen.io/afozbek/pen/PvgPOY)
+-   [CodePen](https://codepen.io/afozbek/pen/PvgPOY)
 
 ### Day 15: Jun 05, 2019
 
@@ -130,8 +130,8 @@
 
 **Link to work:**
 
-- [CodePen](https://codepen.io/afozbek/pen/KLLEWK)
-- [Github Pages](https://afozbek.github.io/React-Calculator-Project/)
+-   [CodePen](https://codepen.io/afozbek/pen/KLLEWK)
+-   [Github Pages](https://afozbek.github.io/React-Calculator-Project/)
 
 ### Day 17: Jun 07, 2019
 
@@ -147,9 +147,9 @@
 
 **Link to work:**
 
-- Icon Hover Effects -> [CodePen](https://codepen.io/afozbek/pen/GaVEvx)
-- Hover Me Buttons -> [CodePen](https://codepen.io/afozbek/pen/LowLoO)
-- Loading... -> [CodePen](https://codepen.io/afozbek/pen/KLOqVJ)
+-   Icon Hover Effects -> [CodePen](https://codepen.io/afozbek/pen/GaVEvx)
+-   Hover Me Buttons -> [CodePen](https://codepen.io/afozbek/pen/LowLoO)
+-   Loading... -> [CodePen](https://codepen.io/afozbek/pen/KLOqVJ)
 
 ### Day 19: Jun 09, 2019
 
@@ -159,7 +159,7 @@
 
 **Link to work:**
 
-- Check out Demo on -> [Netlify](https://afozbek-pomodoro-app.netlify.com/?_ga=2.268321038.1224819846.1560082344-1034779676.1559814958)
+-   Check out Demo on -> [Netlify](https://afozbek-pomodoro-app.netlify.com/?_ga=2.268321038.1224819846.1560082344-1034779676.1559814958)
 
 ### Day 20: Jun 11, 2019
 
@@ -169,7 +169,7 @@
 
 **Link to work:**
 
-- Check out Demo on -> [Glitch](https://freecodecamp-node-challenges.glitch.me/)
+-   Check out Demo on -> [Glitch](https://freecodecamp-node-challenges.glitch.me/)
 
 ### Day 21: Jun 13, 2019
 
@@ -179,7 +179,7 @@
 
 **Link to work:**
 
-- Check out Demo on -> [CodeSandBox](https://codesandbox.io/s/react-training-lessons-u4hy9)
+-   Check out Demo on -> [CodeSandBox](https://codesandbox.io/s/react-training-lessons-u4hy9)
 
 ### Day 22: Jun 14, 2019
 
@@ -189,7 +189,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 23: Jun 15, 2019
 
@@ -199,7 +199,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 24: Jun 16, 2019
 
@@ -209,7 +209,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 25: Jun 17, 2019
 
@@ -219,7 +219,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 26: Jun 19, 2019
 
@@ -229,7 +229,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 27: Jun 20, 2019
 
@@ -239,7 +239,7 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
 
 ### Day 28: Jun 21, 2019
 
@@ -255,8 +255,8 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
-- View Live on -> [demo](https://afozbek-metric-imperial-converter.glitch.me/)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   View Live on -> [demo](https://afozbek-metric-imperial-converter.glitch.me/)
 
 ### Day 30: Jun 23, 2019
 
@@ -266,8 +266,8 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
-- Check out my profile on -> [Github](https://github.com/afozbek)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Github](https://github.com/afozbek)
 
 ### Day 31: Jun 24, 2019
 
@@ -277,8 +277,8 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
-- Check out my profile on -> [Github](https://github.com/afozbek)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Github](https://github.com/afozbek)
 
 ### Day 32: Jun 25, 2019
 
@@ -288,8 +288,8 @@
 
 **Link to work:**
 
-- Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
-- Check out my profile on -> [Github](https://github.com/afozbek)
+-   Check out my profile on -> [Glitch](https://glitch.com/@furkanozbek1995)
+-   Check out my profile on -> [Github](https://github.com/afozbek)
 
 ### Day 33: Jun 26, 2019
 
@@ -344,3 +344,9 @@
 **Today's Progress**: Today I looked at Exception Handling in Java. I also looked at Pass-by-value and Pass-by-reference approach in java and I learned that java uses pass-by-value approach
 
 **Thougts** Exceptions a little bit confusing when first start learning
+
+### Day 42: July 8, 2019
+
+**Today's Progress**: Today I started to learn Servlets in Java. And I also looked at collections.
+
+**Thougts** Creating web applications using Servlets is hard to maintain
