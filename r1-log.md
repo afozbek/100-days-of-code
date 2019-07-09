@@ -177,3 +177,7 @@ Today I looked at Exception Handling in Java. I also looked at Pass-by-value and
 ### R1D42
 
 Today I started to learn Servlets in Java. And I also looked at collections.
+
+## R1D43
+
+Today we looked at thread safety and synchronized threads at java.

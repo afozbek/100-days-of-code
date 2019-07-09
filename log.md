@@ -350,3 +350,8 @@
 **Today's Progress**: Today I started to learn Servlets in Java. And I also looked at collections.
 
 **Thougts** Creating web applications using Servlets is hard to maintain
+
+### Day 43: July 9, 2019
+
+**Today's Progress**: Today we looked at thread safety and synchronized threads at java.
+**Thougts** Java is multi-threaded therefore we need to control the flow.
