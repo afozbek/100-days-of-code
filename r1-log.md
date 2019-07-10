@@ -181,3 +181,7 @@ Today I started to learn Servlets in Java. And I also looked at collections.
 ## R1D43
 
 Today we looked at thread safety and synchronized threads at java.
+
+## R1D44
+
+Today we worked on posting form to database and getting data from database.
