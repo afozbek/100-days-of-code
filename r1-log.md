@@ -185,3 +185,7 @@ Today we looked at thread safety and synchronized threads at java.
 ## R1D44
 
 Today we worked on posting form to database and getting data from database.
+
+## R1D45
+
+Today we worked on session management, cookies and authentication

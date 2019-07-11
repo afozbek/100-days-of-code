@@ -359,8 +359,14 @@ Today we worked on posting form to database and getting data from database.
 
 **Thougts** If our application is thread safe that means we know so much important concepts.
 
-### Day 44: July 9, 2019
+### Day 44: July 10, 2019
 
 **Today's Progress**: Today we worked on posting form to database and getting data from database.
 
 **Thougts** I think connection pooling is really important concept
+
+### Day 45: July 11, 2019
+
+**Today's Progress**: Today we worked on session management, cookies and authentication
+
+**Thougts** Authentication is the most important concept in the web
