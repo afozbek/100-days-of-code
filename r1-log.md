@@ -189,3 +189,7 @@ Today we worked on posting form to database and getting data from database.
 ## R1D45
 
 Today we worked on session management, cookies and authentication
+
+## R1D46
+
+Today we had a quiz about Java SE and EE

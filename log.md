@@ -370,3 +370,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today we worked on session management, cookies and authentication
 
 **Thougts** Authentication is the most important concept in the web
+
+### Day 46: July 12, 2019
+
+**Today's Progress**: Today we had a quiz about Java SE and EE
+
+**Thougts** The quiz was a little bit hard. I hope I will pass to second stage 😢.
