@@ -376,3 +376,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today we had a quiz about Java SE and EE
 
 **Thougts** The quiz was a little bit hard. I hope I will pass to second stage 😢.
+
+### Day 47: July 13, 2019
+
+**Today's Progress**: Today I worked on Java Servlets and I added some functionality to my Contact project.
+
+**Thougts** I changed the folder structures on my github repository. It was taken my time so much.

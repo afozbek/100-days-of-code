@@ -193,3 +193,7 @@ Today we worked on session management, cookies and authentication
 ## R1D46
 
 Today we had a quiz about Java SE and EE
+
+## R1D47
+
+Today I worked on Java Servlets and I added some functionality to my Contact project.
