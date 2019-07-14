@@ -382,3 +382,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I worked on Java Servlets and I added some functionality to my Contact project.
 
 **Thougts** I changed the folder structures on my github repository. It was taken my time so much.
+
+### Day 48: July 14, 2019
+
+**Today's Progress**: Today I finished my Contact project. I can now create, delete, update and get contact
+
+**Thougts** JSTL tags really saves time and imporves the stability.

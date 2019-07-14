@@ -197,3 +197,7 @@ Today we had a quiz about Java SE and EE
 ## R1D47
 
 Today I worked on Java Servlets and I added some functionality to my Contact project.
+
+## R1D48
+
+Today I finished my Contact project. I can now create, delete, update and get contact
