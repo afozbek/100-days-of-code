@@ -385,6 +385,12 @@ Today we worked on posting form to database and getting data from database.
 
 ### Day 48: July 14, 2019
 
-**Today's Progress**: Today I finished my Contact project. I can now create, delete, update and get contact
+**Today's Progress**: Today I nearly finished my Contact project. I can now create, update and get contact
 
 **Thougts** JSTL tags really saves time and imporves the stability.
+
+### Day 49: July 14, 2019
+
+**Today's Progress**: Today I finished my Contact project. I can now create, delete, update and get contact
+
+**Thougts** I also add custom error handling servlet which gets the 404, 500 and some other status codes and dispatch error.jsp page

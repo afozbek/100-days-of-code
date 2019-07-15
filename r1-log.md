@@ -200,4 +200,8 @@ Today I worked on Java Servlets and I added some functionality to my Contact pro
 
 ## R1D48
 
+Today I nearly finished my Contact project. I can now create, update and get contact
+
+## R1D49
+
 Today I finished my Contact project. I can now create, delete, update and get contact
