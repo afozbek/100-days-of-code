@@ -389,8 +389,14 @@ Today we worked on posting form to database and getting data from database.
 
 **Thougts** JSTL tags really saves time and imporves the stability.
 
-### Day 49: July 14, 2019
+### Day 49: July 15, 2019
 
 **Today's Progress**: Today I finished my Contact project. I can now create, delete, update and get contact
 
-**Thougts** I also add custom error handling servlet which gets the 404, 500 and some other status codes and dispatch error.jsp page
+**Thougts** I also added custom error handling servlet which gets the 404, 500 and some other status codes and dispatch error.jsp page
+
+### Day 50: July 16, 2019
+
+**Today's Progress**: Today I worked on Custom Exception handling. I created a program which logs errors to error.log
+
+**Thougts** I am really improved my Exception Handling knowledge today :D

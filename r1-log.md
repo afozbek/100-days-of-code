@@ -205,3 +205,7 @@ Today I nearly finished my Contact project. I can now create, update and get con
 ## R1D49
 
 Today I finished my Contact project. I can now create, delete, update and get contact
+
+## R1D50
+
+Today I worked on Custom Exception handling. I created a program which logs errors to error.log
