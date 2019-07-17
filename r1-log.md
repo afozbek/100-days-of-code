@@ -209,3 +209,7 @@ Today I finished my Contact project. I can now create, delete, update and get co
 ## R1D50
 
 Today I worked on Custom Exception handling. I created a program which logs errors to error.log
+
+# R1D51
+
+Today I started to learn Spring MVC framework in Java.

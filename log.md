@@ -400,3 +400,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I worked on Custom Exception handling. I created a program which logs errors to error.log
 
 **Thougts** I am really improved my Exception Handling knowledge today :D
+
+### Day 51: July 17, 2019
+
+**Today's Progress**: Today I started to learn Spring MVC framework in Java.
+
+**Thougts** It is really hard to learn so much different frameworks :(
