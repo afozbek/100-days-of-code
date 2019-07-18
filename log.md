@@ -406,3 +406,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I started to learn Spring MVC framework in Java.
 
 **Thougts** It is really hard to learn so much different frameworks :(
+
+### Day 52: July 18 2019
+
+**Today's Progress**: Today I worked on Controllers in Spring Framework. And I applied my main forms to project
+
+**Thougts** It is really hard to learn so much different frameworks :(
