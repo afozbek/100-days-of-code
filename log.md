@@ -412,3 +412,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I worked on Controllers in Spring Framework. And I applied my main forms to project
 
 **Thougts** It is really hard to learn so much different frameworks :(
+
+### Day 53: July 19 2019
+
+**Today's Progress**: Today I struggled to learn Spring Framework and Hibernate.
+
+**Thougts** I really hate all of the config files

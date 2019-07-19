@@ -217,3 +217,7 @@ Today I started to learn Spring MVC framework in Java.
 # R1D52
 
 Today I worked on Controllers in Spring Framework. And I applied my main forms to project
+
+# R1D53
+
+Today I struggled to learn Spring Framework and Hibernate.
