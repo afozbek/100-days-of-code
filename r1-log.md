@@ -221,3 +221,7 @@ Today I worked on Controllers in Spring Framework. And I applied my main forms t
 # R1D53
 
 Today I struggled to learn Spring Framework and Hibernate.
+
+# R1D54
+
+Today, I repeat what I learned for three weeks. I have examined the purpose of using Enums and constructor structures in Java.

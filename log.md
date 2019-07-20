@@ -418,3 +418,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I struggled to learn Spring Framework and Hibernate.
 
 **Thougts** I really hate all of the config files
+
+### Day 54: July 20 2019
+
+**Today's Progress**: Today, I repeat what I learned for three weeks. I have examined the purpose of using Enums and constructor structures in Java.
+
+**Thougts** Java is great programming language. But when it comes to the web development there are too much dependicies 😢
