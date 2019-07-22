@@ -225,3 +225,7 @@ Today I struggled to learn Spring Framework and Hibernate.
 # R1D54
 
 Today, I repeat what I learned for three weeks. I have examined the purpose of using Enums and constructor structures in Java.
+
+# R1D55
+
+Today, I learned some specific Spring annotations and I made some projects with them.

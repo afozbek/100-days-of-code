@@ -424,3 +424,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today, I repeat what I learned for three weeks. I have examined the purpose of using Enums and constructor structures in Java.
 
 **Thougts** Java is great programming language. But when it comes to the web development there are too much dependicies 😢
+
+### Day 55: July 21 2019
+
+**Today's Progress**: Today, I learned some specific Spring annotations and I made some projects with them.
+
+**Thougts** I learned that with Spring annotations so much configuration will be done. How amazing.
