@@ -425,8 +425,14 @@ Today we worked on posting form to database and getting data from database.
 
 **Thougts** Java is great programming language. But when it comes to the web development there are too much dependicies 😢
 
-### Day 55: July 21 2019
+### Day 55: July 22 2019
 
 **Today's Progress**: Today, I learned some specific Spring annotations and I made some projects with them.
 
 **Thougts** I learned that with Spring annotations so much configuration will be done. How amazing.
+
+### Day 56: July 23 2019
+
+**Today's Progress**: Today, I created a REST application using Spring Core. I realized that we can use Stream API just like callbacks in javascript.
+
+**Thougts** Stream API is just amazing. I dont want to talk about Spring REST :DD
