@@ -436,3 +436,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today, I created a REST application using Spring Core. I realized that we can use Stream API just like callbacks in javascript.
 
 **Thougts** Stream API is just amazing. I dont want to talk about Spring REST :DD
+
+### Day 57: July 24 2019
+
+**Today's Progress**: Today I created a web service using Spring REST.
+
+**Thougts** The projects that I built were very helpful when learning new framework.

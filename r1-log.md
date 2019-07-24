@@ -233,3 +233,7 @@ Today, I learned some specific Spring annotations and I made some projects with 
 # R1D56
 
 Today, I created a REST application using Spring Core. I realized that we can use Stream API just like callbacks in javascript.
+
+# R1D57
+
+Today I created a web service using Spring REST.
