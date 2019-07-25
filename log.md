@@ -442,3 +442,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I created a web service using Spring REST.
 
 **Thougts** The projects that I built were very helpful when learning new framework.
+
+### Day 58: July 25 2019
+
+**Today's Progress**: Today I started to create new web service which I will consume next week
+
+**Thougts** Security is hard.

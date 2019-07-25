@@ -237,3 +237,7 @@ Today, I created a REST application using Spring Core. I realized that we can us
 # R1D57
 
 Today I created a web service using Spring REST.
+
+# R1D58
+
+Today I started to create new web service which I will consume next week
