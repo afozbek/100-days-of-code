@@ -241,3 +241,7 @@ Today I created a web service using Spring REST.
 # R1D58
 
 Today I started to create new web service which I will consume next week
+
+# R1D59
+
+Today I fixed some bugs and added new features to my web service.

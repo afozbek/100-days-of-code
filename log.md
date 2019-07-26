@@ -448,3 +448,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I started to create new web service which I will consume next week
 
 **Thougts** Security is hard.
+
+### Day 59: July 26 2019
+
+**Today's Progress**: Today I fixed some bugs and added new features to my web service.
+
+**Thougts** I see stack overflow error.
