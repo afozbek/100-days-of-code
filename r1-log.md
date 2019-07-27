@@ -245,3 +245,7 @@ Today I started to create new web service which I will consume next week
 # R1D59
 
 Today I fixed some bugs and added new features to my web service.
+
+# R1D60
+
+Today I created a simple Spring Security-JWT project.
