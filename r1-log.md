@@ -249,3 +249,7 @@ Today I fixed some bugs and added new features to my web service.
 # R1D60
 
 Today I created a simple Spring Security-JWT project.
+
+# R1D61
+
+Today I create a JWT based authentication project with db.

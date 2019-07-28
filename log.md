@@ -460,3 +460,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I created a simple Spring Security-JWT project.
 
 **Thougts** So much config classes.
+
+### Day 61: July 27 2019
+
+**Today's Progress**: Today I created a JWT based authentication project. I can login to the system if I was registered and get a valid JWT token.
+
+**Thougts** User Role management is not included.
