@@ -461,8 +461,14 @@ Today we worked on posting form to database and getting data from database.
 
 **Thougts** So much config classes.
 
-### Day 61: July 27 2019
+### Day 61: July 28 2019
 
 **Today's Progress**: Today I created a JWT based authentication project. I can login to the system if I was registered and get a valid JWT token.
 
 **Thougts** User Role management is not included.
+
+### Day 62: July 29 2019
+
+**Today's Progress**: Today I finally started to learn React.
+
+**Thougts** I miss React
