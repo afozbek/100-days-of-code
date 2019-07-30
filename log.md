@@ -472,3 +472,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finally started to learn React.
 
 **Thougts** I miss React
+
+### Day 63: July 30 2019
+
+**Today's Progress**: Today I learned how to create login, signup based forms
+
+**Thougts** Managing values inside radio, checkbox is harder than I think
