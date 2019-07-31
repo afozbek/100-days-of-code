@@ -261,3 +261,7 @@ Today I again started to learn React
 # R1D63
 
 Today I learned how to create login, signup based forms
+
+# R1D64
+
+Today I called my web service on front-end, fixed CORS issues and built UI with React

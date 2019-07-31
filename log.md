@@ -478,3 +478,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I learned how to create login, signup based forms
 
 **Thougts** Managing values inside radio, checkbox is harder than I think
+
+### Day 64: July 31 2019
+
+**Today's Progress**: Today I called my web service on front-end, fixed CORS issues and built UI with React
+
+**Thougts** http.cors() in Spring solve my cors problem
