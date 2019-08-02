@@ -269,3 +269,7 @@ Today I called my web service on front-end, fixed CORS issues and built UI with 
 # R1D65
 
 Today I nearly finished my front-end UI. I added CRUD to all three components. And I can now add movies to my favourite list.
+
+# R1D66
+
+Today I finished my full-stack movie tracker application.

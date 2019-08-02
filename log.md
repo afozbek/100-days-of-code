@@ -490,3 +490,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I nearly finished my front-end UI. I added CRUD to all three components. And I can now add movies to my favourite list.
 
 **Thougts** MY Pc is burning
+
+### Day 66: Aug 02 2019
+
+**Today's Progress**: Today I finished my full-stack movie tracker application.
+
+**Thougts** I was gained good enough of experience when developing movie tracker project.
