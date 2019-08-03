@@ -273,3 +273,7 @@ Today I nearly finished my front-end UI. I added CRUD to all three components. A
 # R1D66
 
 Today I finished my full-stack movie tracker application.
+
+# R1D67
+
+Today I fixed some bugs that happened yesterday. I can now operate operations much more clear.

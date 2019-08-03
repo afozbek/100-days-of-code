@@ -496,3 +496,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished my full-stack movie tracker application.
 
 **Thougts** I was gained good enough of experience when developing movie tracker project.
+
+### Day 67: Aug 03 2019
+
+**Today's Progress**: Today I fixed some bugs that happened yesterday. I can now operate operations much more clear.
+
+**Thougts** I can develop my Spring boot application with VsCode
