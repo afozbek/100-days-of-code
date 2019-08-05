@@ -502,3 +502,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I fixed some bugs that happened yesterday. I can now operate operations much more clear.
 
 **Thougts** I can develop my Spring boot application with VsCode
+
+### Day 68: Aug 05 2019
+
+**Today's Progress**: Today I solved some algorithm challenges on codility platform.
+
+**Thougts** I will solve some algorithm problems with Java in the coming days.

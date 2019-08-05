@@ -277,3 +277,7 @@ Today I finished my full-stack movie tracker application.
 # R1D67
 
 Today I fixed some bugs that happened yesterday. I can now operate operations much more clear.
+
+# R1D68
+
+Today I solved some algorithm challenges on codility platform.
