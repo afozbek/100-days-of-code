@@ -281,3 +281,7 @@ Today I fixed some bugs that happened yesterday. I can now operate operations mu
 # R1D68
 
 Today I solved some algorithm challenges on codility platform.
+
+# R1D69
+
+Today I continued to solve some algorithm problems

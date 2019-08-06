@@ -508,3 +508,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I solved some algorithm challenges on codility platform.
 
 **Thougts** I will solve some algorithm problems with Java in the coming days.
+
+### Day 69: Aug 06 2019
+
+**Today's Progress**: Today I continued to solve algorithm problems
+
+**Thougts** I will solve some algorithm problems with Java in the coming days.
