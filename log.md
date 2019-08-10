@@ -514,3 +514,14 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I continued to solve algorithm problems
 
 **Thougts** I will solve some algorithm problems with Java in the coming days.
+
+### Day 70: Aug 10 2019
+
+**Today's Progress**: Today I continued my Movie Tracker project, fixed some bugs and applied new contents
+
+**Thougts** Back to coding. With new pc project will be updated eventually.
+
+**Link to work:**
+
+-   Check out my project -> [Movie Tracker](https://github.com/afozbek/Java-Summer-School-Projects/tree/master/Java-Summer-School-w4/movietracker)
+-   Check out my profile -> [Github](https://github.com/afozbek)

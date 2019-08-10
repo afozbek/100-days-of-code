@@ -285,3 +285,7 @@ Today I solved some algorithm challenges on codility platform.
 # R1D69
 
 Today I continued to solve some algorithm problems
+
+# R1D70
+
+Today I continued my Movie Tracker project, fixed some bugs and applied new contents
