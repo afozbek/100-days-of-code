@@ -289,3 +289,7 @@ Today I continued to solve some algorithm problems
 # R1D70
 
 Today I continued my Movie Tracker project, fixed some bugs and applied new contents
+
+# R1D71
+
+Today I updated my forms and I added new fields in the form.

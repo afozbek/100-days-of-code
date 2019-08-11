@@ -525,3 +525,14 @@ Today we worked on posting form to database and getting data from database.
 
 -   Check out my project -> [Movie Tracker](https://github.com/afozbek/Java-Summer-School-Projects/tree/master/Java-Summer-School-w4/movietracker)
 -   Check out my profile -> [Github](https://github.com/afozbek)
+
+### Day 71: Aug 11 2019
+
+**Today's Progress**: Today I updated my forms and I added new fields in the form.
+
+**Thougts** I can update rating in the form right now
+
+**Link to work:**
+
+-   Check out my project -> [Movie Tracker](https://github.com/afozbek/Java-Summer-School-Projects/tree/master/Java-Summer-School-w4/movietracker)
+-   Check out my profile -> [Github](https://github.com/afozbek)
