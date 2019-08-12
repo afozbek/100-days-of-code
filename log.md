@@ -536,3 +536,9 @@ Today we worked on posting form to database and getting data from database.
 
 -   Check out my project -> [Movie Tracker](https://github.com/afozbek/Java-Summer-School-Projects/tree/master/Java-Summer-School-w4/movietracker)
 -   Check out my profile -> [Github](https://github.com/afozbek)
+
+### Day 72: Aug 12 2019
+
+**Today's Progress**: Today I started to build vanilla js projects with Javascript30
+
+**Thougts** Time to build simple projects with vanilla js

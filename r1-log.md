@@ -293,3 +293,7 @@ Today I continued my Movie Tracker project, fixed some bugs and applied new cont
 # R1D71
 
 Today I updated my forms and I added new fields in the form.
+
+# R1D72
+
+Today I started to build vanilla js projects with Javascript30
