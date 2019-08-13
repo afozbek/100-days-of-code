@@ -297,3 +297,7 @@ Today I updated my forms and I added new fields in the form.
 # R1D72
 
 Today I started to build vanilla js projects with Javascript30
+
+# R1D73
+
+Today I finished some projects between Day 2 to Day 4 in Javascript30.
