@@ -548,3 +548,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished some projects between Day 2 to Day 4 in Javascript30.
 
 **Thougts** Creating simple vanilla javascript project with CSS Variables was very amazing
+
+### Day 74: Aug 14 2019
+
+**Today's Progress**: Today I finished Day 5's project in Javascript30. I also started to create my own portfolio page
+
+**Thougts** Flexbox really amazing when we were building layouts

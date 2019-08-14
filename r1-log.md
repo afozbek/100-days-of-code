@@ -301,3 +301,7 @@ Today I started to build vanilla js projects with Javascript30
 # R1D73
 
 Today I finished some projects between Day 2 to Day 4 in Javascript30.
+
+# R1D74
+
+Today I finished Day 5's project in Javascript30. I also started to create my own portfolio page.
