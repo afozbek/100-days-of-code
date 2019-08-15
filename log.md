@@ -554,3 +554,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished Day 5's project in Javascript30. I also started to create my own portfolio page
 
 **Thougts** Flexbox really amazing when we were building layouts
+
+### Day 75: Aug 15 2019
+
+**Today's Progress**: Today I finished Day 6's project in Javascript30. I also updated my own portfolio page.
+
+**Thougts** I am gonna start my portfolio page again I think. I want make page as simple as possible

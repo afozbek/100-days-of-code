@@ -305,3 +305,7 @@ Today I finished some projects between Day 2 to Day 4 in Javascript30.
 # R1D74
 
 Today I finished Day 5's project in Javascript30. I also started to create my own portfolio page.
+
+# R1D75
+
+Today I finished Day 6's project in Javascript30. I also updated my own portfolio page.
