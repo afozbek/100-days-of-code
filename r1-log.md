@@ -309,3 +309,7 @@ Today I finished Day 5's project in Javascript30. I also started to create my ow
 # R1D75
 
 Today I finished Day 6's project in Javascript30. I also updated my own portfolio page.
+
+# R1D76
+
+Today I finally finished basics of my portfolio page.

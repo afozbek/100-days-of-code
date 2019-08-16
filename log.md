@@ -560,3 +560,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished Day 6's project in Javascript30. I also updated my own portfolio page.
 
 **Thougts** I am gonna start my portfolio page again I think. I want make page as simple as possible
+
+### Day 76: Aug 16 2019
+
+**Today's Progress**: Today I finally finished basics of my portfolio page.
+
+**Thougts** I can't deploy my project to Netlify. That's a little annoying for me :(
