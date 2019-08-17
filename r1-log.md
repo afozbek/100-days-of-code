@@ -313,3 +313,7 @@ Today I finished Day 6's project in Javascript30. I also updated my own portfoli
 # R1D76
 
 Today I finally finished basics of my portfolio page.
+
+# R1D77
+
+Today I finished javascript30's Day 7's exercise

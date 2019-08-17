@@ -566,3 +566,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finally finished basics of my portfolio page.
 
 **Thougts** I can't deploy my project to Netlify. That's a little annoying for me :(
+
+### Day 77: Aug 17 2019
+
+**Today's Progress**: Today I finished javascript30's Day 7's exercise
+
+**Thougts** Today I went outside so, I am a little bit tired
