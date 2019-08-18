@@ -317,3 +317,7 @@ Today I finally finished basics of my portfolio page.
 # R1D77
 
 Today I finished javascript30's Day 7's exercise
+
+# R1D77
+
+Today I finished javascript30's Day 8 to Day 11's exercise.
