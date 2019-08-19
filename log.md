@@ -578,3 +578,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 8 to Day 11's exercise.
 
 **Thougts** Html Canvas was good, Shift key with checkboxes nice.
+
+### Day 79: Aug 19 2019
+
+**Today's Progress**: Today I finished javascript30's Day 12 and Day 13's exercises.
+
+**Thougts** Key Sequence challenge was good :D
