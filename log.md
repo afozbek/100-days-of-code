@@ -584,3 +584,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 12 and Day 13's exercises.
 
 **Thougts** Key Sequence challenge was good :D
+
+### Day 80: Aug 20 2019
+
+**Today's Progress**: Today I finished javascript30's Day 14 and Day 15's exercises.
+
+**Thougts** Using localstorage to add or remove items is very good
