@@ -590,3 +590,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 14 and Day 15's exercises.
 
 **Thougts** Using localstorage to add or remove items is very good
+
+### Day 81: Aug 21 2019
+
+**Today's Progress**: Today I finished javascript30's Day 16 to Day 19's exercises.
+
+**Thougts** Playing with web cam was really good. I didn't know that we can play with the images with that easily

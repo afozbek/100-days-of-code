@@ -329,3 +329,7 @@ Today I finished javascript30's Day 12 and Day 13's exercises.
 # R1D80
 
 Today I finished javascript30's Day 14 and Day 15's exercises.
+
+# R1D81
+
+Today I finished javascript30's Day 16 to Day 19's exercises.
