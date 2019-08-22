@@ -596,3 +596,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 16 to Day 19's exercises.
 
 **Thougts** Playing with web cam was really good. I didn't know that we can play with the images with that easily
+
+### Day 82: Aug 22 2019
+
+**Today's Progress**: Today I finished javascript30's Day 20 to Day 21's exercises.
+
+**Thougts** Speach recognition with simple javascript was really good. I learned that javascript is a powerfull programming language
