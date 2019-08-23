@@ -602,3 +602,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 20 to Day 21's exercises.
 
 **Thougts** Speach recognition with simple javascript was really good. I learned that javascript is a powerfull programming language
+
+### Day 83: Aug 23 2019
+
+**Today's Progress**: Today I finished javascript30's Day 22's exercise.
+
+**Thougts** Link highlighter was really amazing, escpecially creating span element and adding it to dom to use later
