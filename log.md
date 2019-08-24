@@ -608,3 +608,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 22's exercise.
 
 **Thougts** Link highlighter was really amazing, escpecially creating span element and adding it to dom to use later
+
+### Day 84: Aug 24 2019
+
+**Today's Progress**: Today I finished javascript30's Day 23 to 26's exercises.
+
+**Thougts** Speech Syntesis exercise was really good. Especially working with all different voices
