@@ -345,3 +345,7 @@ Today I finished javascript30's Day 22's exercise.
 # R1D84
 
 Today I finished javascript30's Day 23 to 26's exercises.
+
+# R1D85
+
+Today I finished javascript30's all exercises 🎉.

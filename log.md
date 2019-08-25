@@ -614,3 +614,11 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I finished javascript30's Day 23 to 26's exercises.
 
 **Thougts** Speech Syntesis exercise was really good. Especially working with all different voices
+
+### Day 85: Aug 25 2019
+
+**Today's Progress**: Today I finished javascript30's Day 27 to 30's exercises. I finished #javascript30 🎉
+
+**Thougts** Playing with javascript is really fun. Even I finished #javascript30's exercises I will continue to make projects with javascript
+
+**Link To Work** [Javascript30](https://github.com/afozbek/Javascript30)
