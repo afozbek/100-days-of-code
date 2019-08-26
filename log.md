@@ -622,3 +622,11 @@ Today we worked on posting form to database and getting data from database.
 **Thougts** Playing with javascript is really fun. Even I finished #javascript30's exercises I will continue to make projects with javascript
 
 **Link To Work** [Javascript30](https://github.com/afozbek/Javascript30)
+
+### Day 86: Aug 26 2019
+
+**Today's Progress**: Today I started to learn Vue. I learned conditional rendering in Vue.js and I built small monster hunter game.
+
+**Thougts** Rendering in vue.js is really simple. Conditional rendering and template literals are really good
+
+**Link To Work** [Monster Hunter Project](https://codepen.io/afozbek/pen/vYBxbKe)

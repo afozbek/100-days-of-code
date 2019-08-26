@@ -349,3 +349,7 @@ Today I finished javascript30's Day 23 to 26's exercises.
 # R1D85
 
 Today I finished javascript30's all exercises 🎉.
+
+# R1D86
+
+Today I started to learn Vue. I learned conditional rendering in Vue.js and I built small monster hunter game.
