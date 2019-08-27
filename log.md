@@ -630,3 +630,9 @@ Today we worked on posting form to database and getting data from database.
 **Thougts** Rendering in vue.js is really simple. Conditional rendering and template literals are really good
 
 **Link To Work** [Monster Hunter Project](https://codepen.io/afozbek/pen/vYBxbKe)
+
+### Day 87: Aug 27 2019
+
+**Today's Progress**: Today I tried to learn Vue instance and how Vue creates its own instances and lifecycle hooks. I learned that there are some lifecycle hooks that Vue is executed behind the scenes like beforeMount, mounted, beforeUpdate, updated ...
+
+**Thougts** There is so much similarity between React and Vue. It will be easier to learn I think.
