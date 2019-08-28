@@ -636,3 +636,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I tried to learn Vue instance and how Vue creates its own instances and lifecycle hooks. I learned that there are some lifecycle hooks that Vue is executed behind the scenes like beforeMount, mounted, beforeUpdate, updated ...
 
 **Thougts** There is so much similarity between React and Vue. It will be easier to learn I think.
+
+### Day 88: Aug 28 2019
+
+**Today's Progress**: Today I moved along to the development workflow on Vue.js. I installed Vue Cli and builth projects with it.
+
+**Thougts** Vue ui is just amazing tool to work on.

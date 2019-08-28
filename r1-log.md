@@ -357,3 +357,7 @@ Today I started to learn Vue. I learned conditional rendering in Vue.js and I bu
 # R1D87
 
 Today I tried to learn Vue instance and how Vue creates its own instances and lifecycle hooks. I learned that there are some lifecycle hooks that Vue is executed behind the scenes like beforeMount, mounted, beforeUpdate, updated ...
+
+# R1D88
+
+Today I moved along to the development workflow on Vue.js. I installed Vue Cli and builth projects with it.
