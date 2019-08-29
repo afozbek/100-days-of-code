@@ -361,3 +361,7 @@ Today I tried to learn Vue instance and how Vue creates its own instances and li
 # R1D88
 
 Today I moved along to the development workflow on Vue.js. I installed Vue Cli and builth projects with it.
+
+# R1D89
+
+Today I got deep on Vue components & props.
