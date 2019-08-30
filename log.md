@@ -648,3 +648,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I got deep on Vue components & props.
 
 **Thougts** Understanding Vue props and managing components are essentials to learn
+
+### Day 90: Aug 30 2019
+
+**Today's Progress**: Today I learned Dynamic components & slots on Vue
+
+**Thougts** Slots are really useful when working multiple dynamic components and we want content in that components

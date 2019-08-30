@@ -365,3 +365,7 @@ Today I moved along to the development workflow on Vue.js. I installed Vue Cli a
 # R1D89
 
 Today I got deep on Vue components & props.
+
+# R1D90
+
+Today I learned Dynamic Components & Slots on Vue
