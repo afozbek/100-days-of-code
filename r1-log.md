@@ -369,3 +369,7 @@ Today I got deep on Vue components & props.
 # R1D90
 
 Today I learned Dynamic Components & Slots on Vue
+
+# R1D91
+
+Today I learned how to handle forms & how to create my own custom directive with Vue

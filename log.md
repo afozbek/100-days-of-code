@@ -654,3 +654,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I learned Dynamic components & slots on Vue
 
 **Thougts** Slots are really useful when working multiple dynamic components and we want content in that components
+
+### Day 91: Aug 31 2019
+
+**Today's Progress**: Today I learned how to handle forms & how to create my own custom directive with Vue
+
+**Thougts** Vue offers us how to create our custom directive. This is really cool
