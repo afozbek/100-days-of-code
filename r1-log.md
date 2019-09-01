@@ -373,3 +373,7 @@ Today I learned Dynamic Components & Slots on Vue
 # R1D91
 
 Today I learned how to handle forms & how to create my own custom directive with Vue
+
+# R1D92
+
+Today I learned how to use filters & mixins in our Vue applications. Then I looked how to animate our custom components, elements or group of items with transition and transition-group element

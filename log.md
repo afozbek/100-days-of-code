@@ -660,3 +660,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I learned how to handle forms & how to create my own custom directive with Vue
 
 **Thougts** Vue offers us how to create our custom directive. This is really cool
+
+### Day 92: Sep 01 2019
+
+**Today's Progress**: Today I learned how to use filters & mixins in our Vue applications. Then I looked how to animate our custom components, elements or group of items with transition and transition-group element
+
+**Thougts** Animation is really simple with transition components
