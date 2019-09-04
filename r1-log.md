@@ -377,3 +377,7 @@ Today I learned how to handle forms & how to create my own custom directive with
 # R1D92
 
 Today I learned how to use filters & mixins in our Vue applications. Then I looked how to animate our custom components, elements or group of items with transition and transition-group element
+
+# R1D93
+
+Today I started to learn how to send http request to custom api or server in Vue. I installed `vue-resource` library to send http requests
