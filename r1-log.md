@@ -381,3 +381,7 @@ Today I learned how to use filters & mixins in our Vue applications. Then I look
 # R1D93
 
 Today I started to learn how to send http request to custom api or server in Vue. I installed `vue-resource` library to send http requests
+
+# R1D94
+
+Today I started to learn how to do routing in Vue.js applications. I also looked new Vue CLI & axios.

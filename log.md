@@ -672,3 +672,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I started to learn how to send http request to custom api or server in Vue. I installed `vue-resource` library to send http requests
 
 **Thougts** HTTP requests are essential in front end development
+
+### Day 94: Sep 05 2019
+
+**Today's Progress**: Today I started to learn how to do routing in Vue.js applications. I also looked new Vue CLI & axios.
+
+**Thougts** Vue Route package is really good package to learn
