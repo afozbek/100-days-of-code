@@ -385,3 +385,7 @@ Today I started to learn how to send http request to custom api or server in Vue
 # R1D94
 
 Today I started to learn how to do routing in Vue.js applications. I also looked new Vue CLI & axios.
+
+# R1D95
+
+Today I learned how Vuex work in Vue.js applications. Previous we worked on event bus to reflect the changed state to other components. With Vuex this change!

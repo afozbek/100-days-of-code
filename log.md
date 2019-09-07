@@ -678,3 +678,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I started to learn how to do routing in Vue.js applications. I also looked new Vue CLI & axios.
 
 **Thougts** Vue Route package is really good package to learn
+
+### Day 95: Sep 07 2019
+
+**Today's Progress**: Today I learned how Vuex work in Vue.js applications. Previous we worked on event bus to reflect the changed state to other components. With Vuex this change!
+
+**Thougts** Powerfull state management with Vuex
