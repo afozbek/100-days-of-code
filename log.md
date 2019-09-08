@@ -684,3 +684,11 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I learned how Vuex work in Vue.js applications. Previous we worked on event bus to reflect the changed state to other components. With Vuex this change!
 
 **Thougts** Powerfull state management with Vuex
+
+### Day 96: Sep 08 2019
+
+**Today's Progress**: Today I created a vue-stock-trader application which covers vue, vue-router, vuex and firebase.
+
+**Thougts** Vue.js is a really powerfull framework when building single page applications
+
+**LinkToWork**: [View on Netlify](https://afozbek-vue-stock-trader.netlify.com/)

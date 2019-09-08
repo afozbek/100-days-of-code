@@ -389,3 +389,7 @@ Today I started to learn how to do routing in Vue.js applications. I also looked
 # R1D95
 
 Today I learned how Vuex work in Vue.js applications. Previous we worked on event bus to reflect the changed state to other components. With Vuex this change!
+
+# R1D96
+
+Today I created a vue-stock-trader application which covers vue, vue-router, vuex and firebase.
