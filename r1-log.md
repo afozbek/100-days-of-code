@@ -393,3 +393,7 @@ Today I learned how Vuex work in Vue.js applications. Previous we worked on even
 # R1D96
 
 Today I created a vue-stock-trader application which covers vue, vue-router, vuex and firebase.
+
+# R1D97
+
+Today I looked at what differences between responsive web apps and progressive web apps. Then I started to learn Nuxt.js

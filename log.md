@@ -692,3 +692,9 @@ Today we worked on posting form to database and getting data from database.
 **Thougts** Vue.js is a really powerfull framework when building single page applications
 
 **LinkToWork**: [View on Netlify](https://afozbek-vue-stock-trader.netlify.com/)
+
+### Day 97: Sep 09 2019
+
+**Today's Progress**: Today I looked at what differences between responsive web apps and progressive web apps. Then I started to learn Nuxt.js
+
+**Thougts** Nuxt.js is a really good framework. We can write vue components and layouts and serve on express with nuxt.js
