@@ -698,3 +698,9 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I looked at what differences between responsive web apps and progressive web apps. Then I started to learn Nuxt.js
 
 **Thougts** Nuxt.js is a really good framework. We can write vue components and layouts and serve on express with nuxt.js
+
+### Day 98: Sep 12 2019
+
+**Today's Progress**: Today I learned how to authenticate users in Vue.js application using firebase Vue-Vuex-Vue Router
+
+**Thougts** Authenticating users in single page applications follows these steps: Login, get the token from back end and apply that token every protected route
