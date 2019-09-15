@@ -397,3 +397,11 @@ Today I created a vue-stock-trader application which covers vue, vue-router, vue
 # R1D97
 
 Today I looked at what differences between responsive web apps and progressive web apps. Then I started to learn Nuxt.js
+
+# R1D98
+
+Today I learned how to authenticate users in Vue.js application using firebase Vue-Vuex-Vue Router
+
+# R1D99
+
+Today I created portfolio page using Html-Css-Javascript & Sass

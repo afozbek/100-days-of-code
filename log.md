@@ -704,3 +704,15 @@ Today we worked on posting form to database and getting data from database.
 **Today's Progress**: Today I learned how to authenticate users in Vue.js application using firebase Vue-Vuex-Vue Router
 
 **Thougts** Authenticating users in single page applications follows these steps: Login, get the token from back end and apply that token every protected route
+
+### Day 99: Sep 13 2019
+
+**Today's Progress**: Today I created portfolio page using Html-Css-Javascript & Sass
+
+**Thougts** Sass really helping to write reusable css codes. Understanding classes with sass much easier
+
+**Link To Work** :
+
+To see code -> You can look at [my github repository](https://github.com/afozbek/portfolio-page)
+
+To see in action -> [View Demo](https://afozbek.github.io/portfolio-page/)
