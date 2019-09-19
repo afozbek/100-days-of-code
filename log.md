@@ -716,3 +716,13 @@ Today we worked on posting form to database and getting data from database.
 To see code -> You can look at [my github repository](https://github.com/afozbek/portfolio-page)
 
 To see in action -> [View Demo](https://afozbek.github.io/portfolio-page/)
+
+### Day 100: Sep 19 2019
+
+**Today's Progress**: Today I created sample ABEM sass code to understand the architecture.
+
+**Thougts** [ABEM naming convention](https://css-tricks.com/abem-useful-adaptation-bem/)
+
+**Link To Work** :
+
+To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)

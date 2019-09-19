@@ -405,3 +405,7 @@ Today I learned how to authenticate users in Vue.js application using firebase V
 # R1D99
 
 Today I created portfolio page using Html-Css-Javascript & Sass
+
+# R1D100
+
+Today I created sample ABEM sass code to understand the architecture.
