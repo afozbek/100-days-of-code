@@ -726,3 +726,9 @@ To see in action -> [View Demo](https://afozbek.github.io/portfolio-page/)
 **Link To Work** :
 
 To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
+
+### Day 101: Sep 20 2019
+
+**Today's Progress**: In the previous week I started a project along with the 2 other developers. We want to build small e-commerce based site. Today I tried to create header of the project.
+
+**Thougts** Scrum methodology is very good when you are developing the project.
