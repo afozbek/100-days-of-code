@@ -732,3 +732,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: In the previous week I started a project along with the 2 other developers. We want to build small e-commerce based site. Today I tried to create header of the project.
 
 **Thougts** Scrum methodology is very good when you are developing the project.
+
+### Day 102: Sep 21 2019
+
+**Today's Progress**: Today I investigated mega menus & I looked at some base projects' code and tried to understand it.
+
+**Thougts** A lot e commerce based sites uses mega menus for getting the users' attention so I think this subject will be important.
