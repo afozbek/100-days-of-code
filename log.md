@@ -738,3 +738,11 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I investigated mega menus & I looked at some base projects' code and tried to understand it.
 
 **Thougts** A lot e commerce based sites uses mega menus for getting the users' attention so I think this subject will be important.
+
+### Day 103: Sep 22 2019
+
+**Today's Progress**: Today I learned the differences between inline & inline-block element.
+
+**Thougts** Css Displays are something entirely different I think
+
+**Related Article** : You can find the mentioned article [here](https://www.smashingmagazine.com/2019/04/display-two-value/#comments-display-two-value)

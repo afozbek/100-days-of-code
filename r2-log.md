@@ -11,3 +11,7 @@ Hello again with the new round of the #100DaysOfCode. Today I tried to update my
 ### R2D2
 
 Today I investigated mega menus & I looked at some base projects' code and tried to understand it.
+
+### R2D3
+
+Today I learned the differences between inline & inline-block element.
