@@ -15,3 +15,7 @@ Today I investigated mega menus & I looked at some base projects' code and tried
 ### R2D3
 
 Today I learned the differences between inline & inline-block element.
+
+### R2D4
+
+Today I looked at the mobile-first approach and tried to implement project's header using this approach. We will be using this approach when developing our application.

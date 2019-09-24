@@ -746,3 +746,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Thougts** Css Displays are something entirely different I think
 
 **Related Article** : You can find the mentioned article [here](https://www.smashingmagazine.com/2019/04/display-two-value/#comments-display-two-value)
+
+### Day 104: Sep 24 2019
+
+**Today's Progress**: Today I looked at the mobile-first approach and tried to implement project's header using this approach. We will be using this approach when developing our application.
+
+**Thougts** Mobile first approach is hard to maintain but best for future.
