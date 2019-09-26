@@ -752,3 +752,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I looked at the mobile-first approach and tried to implement project's header using this approach. We will be using this approach when developing our application.
 
 **Thougts** Mobile first approach is hard to maintain but best for future.
+
+### Day 105: Sep 25 2019
+
+**Today's Progress**: Today I learned about css margin collapsing problem and how can we solve it.
+
+**Thougts** Applying margins to one direction will solve so much different margin problems

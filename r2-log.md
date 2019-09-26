@@ -19,3 +19,7 @@ Today I learned the differences between inline & inline-block element.
 ### R2D4
 
 Today I looked at the mobile-first approach and tried to implement project's header using this approach. We will be using this approach when developing our application.
+
+### R2D5
+
+Today I learned about css margin collapsing problem and how can we solve it.
