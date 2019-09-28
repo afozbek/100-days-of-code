@@ -23,3 +23,7 @@ Today I looked at the mobile-first approach and tried to implement project's hea
 ### R2D5
 
 Today I learned about css margin collapsing problem and how can we solve it.
+
+### R2D6
+
+Today I studied flexboxes at css-tricks & w3schools to learn new properties.

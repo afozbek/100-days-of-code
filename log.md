@@ -758,3 +758,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I learned about css margin collapsing problem and how can we solve it.
 
 **Thougts** Applying margins to one direction will solve so much different margin problems
+
+### Day 106: Sep 26 2019
+
+**Today's Progress**: Today I studied flexboxes at css-tricks & w3schools to learn new properties.
+
+**Thougts** With flexboxes we can create so much new awesome layouts
