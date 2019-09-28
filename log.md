@@ -759,7 +759,7 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 
 **Thougts** Applying margins to one direction will solve so much different margin problems
 
-### Day 106: Sep 26 2019
+### Day 106: Sep 28 2019
 
 **Today's Progress**: Today I studied flexboxes at css-tricks & w3schools to learn new properties.
 
