@@ -764,3 +764,15 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I studied flexboxes at css-tricks & w3schools to learn new properties.
 
 **Thougts** With flexboxes we can create so much new awesome layouts
+
+### Day 107: Sep 28 2019
+
+**Today's Progress**: Today I studied grid at css-tricks & w3schools to learn new properties.
+
+**Thougts** With grid, creating 2d layouts much easier
+
+**Links**
+
+- [w3Schools](https://www.w3schools.com/css/css_grid.asp)
+- [Css-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Medium](https://medium.com/@js_tut/css-grid-tutorial-filling-in-the-gaps-c596c9534611)

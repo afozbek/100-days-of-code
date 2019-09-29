@@ -27,3 +27,7 @@ Today I learned about css margin collapsing problem and how can we solve it.
 ### R2D6
 
 Today I studied flexboxes at css-tricks & w3schools to learn new properties.
+
+### R2D7
+
+Today I studied grid at css-tricks & w3schools to learn new properties.
