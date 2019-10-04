@@ -776,3 +776,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 - [w3Schools](https://www.w3schools.com/css/css_grid.asp)
 - [Css-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Medium](https://medium.com/@js_tut/css-grid-tutorial-filling-in-the-gaps-c596c9534611)
+
+### Day 108: Oct 04 2019
+
+**Today's Progress**: Today I looked at how to style video elements.
+
+**Thougts** Html Video element is really powerful element. You can work on it very easily

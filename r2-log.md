@@ -31,3 +31,7 @@ Today I studied flexboxes at css-tricks & w3schools to learn new properties.
 ### R2D7
 
 Today I studied grid at css-tricks & w3schools to learn new properties.
+
+### R2D8
+
+Today I studied on video elements
