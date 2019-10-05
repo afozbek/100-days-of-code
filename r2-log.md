@@ -35,3 +35,7 @@ Today I studied grid at css-tricks & w3schools to learn new properties.
 ### R2D8
 
 Today I studied on video elements
+
+### R2D9
+
+Today I updated my landing page. I added some responsive styles and updated my layout.

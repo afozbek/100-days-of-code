@@ -782,3 +782,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I looked at how to style video elements.
 
 **Thougts** Html Video element is really powerful element. You can work on it very easily
+
+### Day 109: Oct 05 2019
+
+**Today's Progress**: Today I updated my landing page. I added some responsive styles and updated my layout.
+
+**Thougts** Designing is one thing, coding is one thing
