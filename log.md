@@ -788,3 +788,9 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I updated my landing page. I added some responsive styles and updated my layout.
 
 **Thougts** Designing is one thing, coding is one thing
+
+### Day 110: Oct 06 2019
+
+**Today's Progress**: Today I finished some parts of my landing page. I created new branches for new parts of the layout
+
+**Thougts** Every line makes me closer to my goal

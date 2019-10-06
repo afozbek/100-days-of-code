@@ -39,3 +39,7 @@ Today I studied on video elements
 ### R2D9
 
 Today I updated my landing page. I added some responsive styles and updated my layout.
+
+### R2D10
+
+Today I finished some parts of my landing page. I created new branches for new parts of the layout
