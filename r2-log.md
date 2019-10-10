@@ -43,3 +43,7 @@ Today I updated my landing page. I added some responsive styles and updated my l
 ### R2D10
 
 Today I finished some parts of my landing page. I created new branches for new parts of the layout
+
+### R2D11
+
+Today I started the build movie-search application with the help of OMDb API

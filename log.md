@@ -794,3 +794,14 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 **Today's Progress**: Today I finished some parts of my landing page. I created new branches for new parts of the layout
 
 **Thougts** Every line makes me closer to my goal
+
+### Day 111: Oct 10 2019
+
+**Today's Progress**: Today I started the build movie-search application with the help of OMDb API
+
+**Thougts** I want to use all tech stack with Vue, Vuex, VueRouter and Scss with axios and so on..
+
+**Realated Article**
+
+- [FrontEnd Master Applications](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+- [FreeCodeCamp Uygulama Makalesi](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
