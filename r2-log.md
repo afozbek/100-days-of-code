@@ -47,3 +47,7 @@ Today I finished some parts of my landing page. I created new branches for new p
 ### R2D11
 
 Today I started the build movie-search application with the help of OMDb API
+
+### R2D12
+
+Today I investigated SVG's. I writed some notes and I will be publish them on medium or elsewhere.

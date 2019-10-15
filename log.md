@@ -805,3 +805,16 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 
 - [FrontEnd Master Applications](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
 - [FreeCodeCamp Uygulama Makalesi](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
+
+### Day 112: Oct 15 2019
+
+**Today's Progress**: Today I investigated SVG's. I writed some notes and I will be publish them on medium or elsewhere.
+
+**Thougts** SVG's are fun to use and really powerful
+
+**Realated Article**
+
+- [A Practical Guide to SVGs on the web](https://svgontheweb.com)
+- [The Ultimate Guide To SVG by Ezequiel Bruni](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
+- [ Using SVG by Chris Coyier ](https://css-tricks.com/using-svg/)
+- [A Complete Guide to SVG Fallbacks by Amelia Bellamy-Royds](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
