@@ -54,4 +54,4 @@ Today I investigated SVG's. I writed some notes and I will be publish them on me
 
 ### R2D13
 
-Today I investigated Masonry Layou. I writed some notes and I will be publish them on medium or elsewhere.
+Today I investigated Masonry Layout. I writed some notes and I will be publish them on medium or elsewhere.
