@@ -51,3 +51,7 @@ Today I started the build movie-search application with the help of OMDb API
 ### R2D12
 
 Today I investigated SVG's. I writed some notes and I will be publish them on medium or elsewhere.
+
+### R2D13
+
+Today I investigated Masonry Layou. I writed some notes and I will be publish them on medium or elsewhere.

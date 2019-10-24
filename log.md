@@ -812,9 +812,22 @@ To see in action -> [View Demo](https://codepen.io/afozbek/pen/gOYBLvg)
 
 **Thougts** SVG's are fun to use and really powerful
 
-**Realated Article**
+**Related Article**
 
 - [A Practical Guide to SVGs on the web](https://svgontheweb.com)
 - [The Ultimate Guide To SVG by Ezequiel Bruni](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
 - [ Using SVG by Chris Coyier ](https://css-tricks.com/using-svg/)
 - [A Complete Guide to SVG Fallbacks by Amelia Bellamy-Royds](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
+
+### Day 113: Oct 24 2019
+
+**Today's Progress**: Today I investigated Masonry Layou. I writed some notes and I will be publish them on medium or elsewhere.
+
+**Thougts** Masonry Layout is some layout which is being using when creating photo albums on web mostly
+
+**Related Article**
+
+- [Understanding Masonry Layout by Rakhitha Nimesh](https://www.sitepoint.com/understanding-masonry-layout/)
+- [How to Pure CSS Masonry Layouts by Jhey Tompkins](https://codeburst.io/how-to-pure-css-masonry-layouts-a8ede07ba31a)
+- [Approaches for a CSS Masonry Layout by Chris Coyier](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/)
+- [How to The Masonry Layout by Jhey Tompkins](https://codeburst.io/how-to-the-masonry-layout-56f0fe0b19df)
